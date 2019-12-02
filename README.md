@@ -3,9 +3,9 @@ In this Article I will show how we can publish google drive 360 images to google
 
 Install below libraries one by one.
 
-apt-get install python3-pip
-pip3 install flask
-pip3 install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
+apt-get install python3-pip  
+pip3 install flask  
+pip3 install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib  
 pip3 install gapic-google-maps-streetview-publish-v1
 
 You have to download credential file from your google cloud project.For more info visit below link - 
