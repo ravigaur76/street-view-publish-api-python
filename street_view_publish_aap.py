@@ -74,7 +74,7 @@ def publish_image():
             print("Upload response: " + str(r))
 
         capture_time = int(time.time())
-        url_publishimage = 'https://streetviewpublish.googleapis.com/v1/photo?key=AIzaSyC2ul8LwHStS8KtmHCkk-jBTW__f2m9mIs'
+        url_publishimage = 'https://streetviewpublish.googleapis.com/v1/photo?key=Your API KEY'
 
         headers_publishimage = {
             "Authorization": "Bearer " + creds.token,
