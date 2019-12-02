@@ -11,5 +11,9 @@ pip3 install gapic-google-maps-streetview-publish-v1
 You have to download credential file from your google cloud project.For more info visit below link - 
 https://developers.google.com/adwords/api/docs/guides/authentication
 
+Provide your info in street_view_publish.py
+
+Run command - python3 street_view_publish.py
+
 
 
